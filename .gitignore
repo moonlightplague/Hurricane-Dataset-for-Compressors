@@ -2,3 +2,4 @@
 /reconstruction_visualizations/
 /__pycache__/
 .codex
+output/
